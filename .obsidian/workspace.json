@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Untitled.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Untitled.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Untitled.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Untitled.md"
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "4d62199b8cdaa7da",
   "lastOpenFiles": [
-    "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
-    "Unit 1 - Probability models and axioms/Notes/Untitled.md",
+    "Unit 1 - Probability models and axioms/Notes/Sample space.md",
+    "Images/Pasted image 20240904074144.png",
+    "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
+    "Images",
     "Unit 1 - Probability models and axioms/Exercises/Untitled.md",
+    "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
     "README.md",
     "Unit 1 - Probability models and axioms/Exercises",
     "Unit 1 - Probability models and axioms/Formulas",
