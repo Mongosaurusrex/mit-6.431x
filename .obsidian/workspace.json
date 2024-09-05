@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Probability axioms.md"
+                "file": "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d62199b8cdaa7da",
+  "active": "9bfaabc22415355d",
   "lastOpenFiles": [
-    "Unit 1 - Probability models and axioms/Notes/Sample space.md",
+    "Images/Pasted image 20240905084424.png",
+    "Images/Pasted image 20240905084306.png",
+    "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md",
     "Images/Pasted image 20240904074144.png",
+    "Unit 1 - Probability models and axioms/Notes/Discrete example.md",
+    "Unit 1 - Probability models and axioms/Notes/Sample space.md",
     "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
+    "README.md",
     "Images",
     "Unit 1 - Probability models and axioms/Exercises/Untitled.md",
     "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
-    "README.md",
     "Unit 1 - Probability models and axioms/Exercises",
     "Unit 1 - Probability models and axioms/Formulas",
     "Unit 1 - Probability models and axioms/Notes",

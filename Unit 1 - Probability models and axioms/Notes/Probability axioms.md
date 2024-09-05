@@ -40,3 +40,16 @@ If $A_1, ... , A_k$ are disjoint then:
 $$
 P(A_1\cup...A_k) = \sum_{i=1}^kP(A_i)
 $$
+### More consequences of the axioms
+$$
+If A \subset B,\  then \ P(A) \leq P(B) 
+$$
+$$
+P(A\cup B) = P(A) + P(B) - P(A\cap B)
+$$
+$$
+P(A\cup B) \leq P(A) + P(B), \ (aka, the\ union\ bound)
+$$
+$$
+P(A\cup B \cup C) = P(A)+P(A^c\cap B) + P(A^c\cap B^c \cap C)
+$$
