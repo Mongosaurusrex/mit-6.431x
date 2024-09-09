@@ -4,6 +4,7 @@ Obsidian vault for notes etc. of the course "Probability - The Science of Uncert
 ## The format
 There is a folder for each unit of the course, divided into several subsections:
 - Notes: notes on the topic of the course. Mainly from the lectures
+- Formulas: important formulas for each unit
 
 ## Commit format:
 ````bash

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Interpretations and uses of probabilities.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Interpretations and uses of probabilities.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Interpretations and uses of probabilities.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 1 - Probability models and axioms/Notes/Interpretations and uses of probabilities.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,18 +148,28 @@
   },
   "active": "4d62199b8cdaa7da",
   "lastOpenFiles": [
-    "Images/Pasted image 20240905134621.png",
+    "Unit 2 - Conditioning and independence/Conditional probabilities.md",
     "README.md",
-    "Unit 1 - Probability models and axioms/Notes/Untitled.md",
-    "Unit 1 - Probability models and axioms/Notes/Interpretations and uses of probabilities.md",
-    "Unit 1 - Probability models and axioms/Notes/Probability calculation, discrete but infinite sample space.md",
-    "Unit 1 - Probability models and axioms/Notes/Probability calculation, continuous example.md",
+    "Pasted image 20240909082742.png",
+    "Images/Pasted image 20240909082643.png",
+    "Unit 1 - Probability models and axioms/Discrete example.md",
+    "Unit 1 - Probability models and axioms/Probability calculation, continuous example.md",
+    "Unit 2 - Conditioning and independence",
+    "Unit 1 - Probability models and axioms/Probability axioms.md",
+    "Unit 1 - Probability models and axioms/Probability calculation, discrete but infinite sample space.md",
+    "Unit 1 - Probability models and axioms/Sequences and their limits.md",
+    "Unit 1 - Probability models and axioms/Sets.md",
+    "Unit 1 - Probability models and axioms/Interpretations and uses of probabilities.md",
+    "Unit 1 - Probability models and axioms/Infinite series.md",
+    "Unit 1 - Probability models and axioms/Geometric series.md",
+    "Unit 1 - Probability models and axioms/Sample space.md",
+    "Images/Pasted image 20240908164251.png",
+    "Images/Pasted image 20240908163619.png",
+    "Images/Pasted image 20240905134621.png",
+    "Unit 1 - Probability models and axioms/README.md",
     "Images/Pasted image 20240905084424.png",
     "Images/Pasted image 20240905084306.png",
     "Images/Pasted image 20240904074144.png",
-    "Unit 1 - Probability models and axioms/Notes/Discrete example.md",
-    "Unit 1 - Probability models and axioms/Notes/Sample space.md",
-    "Unit 1 - Probability models and axioms/Notes/Probability axioms.md",
     "Images",
     "Unit 1 - Probability models and axioms/Exercises/Untitled.md",
     "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
