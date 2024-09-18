@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b603c60a0f3c52",
+        "id": "982c1281631edfb3",
         "type": "tabs",
         "children": [
           {
-            "id": "4d62199b8cdaa7da",
+            "id": "9370e54083736018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/A die roll example.md",
+                "file": "Unit 2 - Conditioning and independence/A coin tossing example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0132facb8590943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/A die roll example.md",
+                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/A die roll example.md",
+                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/A die roll example.md"
+                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,34 +157,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4d62199b8cdaa7da",
+  "active": "b0132facb8590943",
   "lastOpenFiles": [
-    "Unit 2 - Conditioning and independence/Conditional probabilities.md",
+    "Unit 2 - Conditioning and independence/A coin tossing example.md",
+    "Unit 2 - Conditioning and independence/Independence of a collection of events.md",
+    "Unit 2 - Conditioning and independence/Total probability theorem.md",
     "Unit 2 - Conditioning and independence/A die roll example.md",
-    "README.md",
-    "Pasted image 20240909082742.png",
-    "Images/Pasted image 20240909082643.png",
+    "Unit 2 - Conditioning and independence/Bayes Rule.md",
+    "Unit 2 - Conditioning and independence/Conditional independence.md",
+    "Unit 2 - Conditioning and independence/Conditional probabilities.md",
+    "Unit 2 - Conditioning and independence/Conditional probabilities obey the same axioms.md",
+    "Unit 2 - Conditioning and independence/Independence vs. pairwise independence.md",
+    "Test perspective.md",
+    "Images/Pasted image 20240914204243.png",
+    "Unit 1 - Probability models and axioms/Sets.md",
+    "Unit 1 - Probability models and axioms/Sequences and their limits.md",
+    "Unit 1 - Probability models and axioms/Sample space.md",
+    "Images/Pasted image 20240911194533.png",
     "Unit 1 - Probability models and axioms/Discrete example.md",
+    "Images/Pasted image 20240910145234.png",
+    "Unit 1 - Probability models and axioms/Geometric series.md",
+    "Unit 1 - Probability models and axioms/Probability axioms.md",
+    "Images/Pasted image 20240909082742.png",
+    "Images/Pasted image 20240910145006.png",
+    "Untitled.canvas",
+    "README.md",
+    "Images/Pasted image 20240909082643.png",
     "Unit 1 - Probability models and axioms/Probability calculation, continuous example.md",
     "Unit 2 - Conditioning and independence",
-    "Unit 1 - Probability models and axioms/Probability axioms.md",
     "Unit 1 - Probability models and axioms/Probability calculation, discrete but infinite sample space.md",
-    "Unit 1 - Probability models and axioms/Sequences and their limits.md",
-    "Unit 1 - Probability models and axioms/Sets.md",
     "Unit 1 - Probability models and axioms/Interpretations and uses of probabilities.md",
     "Unit 1 - Probability models and axioms/Infinite series.md",
-    "Unit 1 - Probability models and axioms/Geometric series.md",
-    "Unit 1 - Probability models and axioms/Sample space.md",
     "Images/Pasted image 20240908164251.png",
     "Images/Pasted image 20240908163619.png",
     "Images/Pasted image 20240905134621.png",
     "Unit 1 - Probability models and axioms/README.md",
     "Images/Pasted image 20240905084424.png",
-    "Images/Pasted image 20240905084306.png",
-    "Images/Pasted image 20240904074144.png",
     "Images",
     "Unit 1 - Probability models and axioms/Exercises/Untitled.md",
     "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
