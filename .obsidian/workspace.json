@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/A coin tossing example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0132facb8590943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
+                "file": "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
+                "file": "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md",
+                "file": "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 2 - Conditioning and independence/Bayes Rule.md"
+                "file": "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md"
               }
             }
           }
@@ -161,17 +148,29 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b0132facb8590943",
+  "active": "9370e54083736018",
   "lastOpenFiles": [
-    "Unit 2 - Conditioning and independence/A coin tossing example.md",
     "Unit 2 - Conditioning and independence/Independence of a collection of events.md",
+    "Unit 2 - Conditioning and independence/Independence vs. pairwise independence.md",
     "Unit 2 - Conditioning and independence/Total probability theorem.md",
-    "Unit 2 - Conditioning and independence/A die roll example.md",
+    "Unit 3 - Counting/Binomial coefficient -> Binomial probabilities.md",
+    "Unit 3 - Counting/Combinations.md",
+    "Unit 3 - Counting/Die roll example.md",
+    "Unit 3 - Counting/The basic counting principle.md",
+    "Unit 3 - Counting/Partitions.md",
+    "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md",
+    "Unit 4 - Discrete random variables/Probability mass functions (PMF).md",
+    "Images/Pasted image 20240924182852.png",
+    "Unit 4 - Discrete random variables/Definition of random variables.md",
+    "Unit 4 - Discrete random variables",
+    "README.md",
+    "Unit 2 - Conditioning and independence/A coin tossing example.md",
     "Unit 2 - Conditioning and independence/Bayes Rule.md",
+    "Unit 3 - Counting",
+    "Unit 2 - Conditioning and independence/A die roll example.md",
     "Unit 2 - Conditioning and independence/Conditional independence.md",
     "Unit 2 - Conditioning and independence/Conditional probabilities.md",
     "Unit 2 - Conditioning and independence/Conditional probabilities obey the same axioms.md",
-    "Unit 2 - Conditioning and independence/Independence vs. pairwise independence.md",
     "Test perspective.md",
     "Images/Pasted image 20240914204243.png",
     "Unit 1 - Probability models and axioms/Sets.md",
@@ -185,21 +184,13 @@
     "Images/Pasted image 20240909082742.png",
     "Images/Pasted image 20240910145006.png",
     "Untitled.canvas",
-    "README.md",
     "Images/Pasted image 20240909082643.png",
     "Unit 1 - Probability models and axioms/Probability calculation, continuous example.md",
     "Unit 2 - Conditioning and independence",
-    "Unit 1 - Probability models and axioms/Probability calculation, discrete but infinite sample space.md",
-    "Unit 1 - Probability models and axioms/Interpretations and uses of probabilities.md",
-    "Unit 1 - Probability models and axioms/Infinite series.md",
     "Images/Pasted image 20240908164251.png",
     "Images/Pasted image 20240908163619.png",
     "Images/Pasted image 20240905134621.png",
-    "Unit 1 - Probability models and axioms/README.md",
-    "Images/Pasted image 20240905084424.png",
     "Images",
-    "Unit 1 - Probability models and axioms/Exercises/Untitled.md",
-    "Unit 1 - Probability models and axioms/Formulas/Untitled.md",
     "Unit 1 - Probability models and axioms/Exercises",
     "Unit 1 - Probability models and axioms/Formulas",
     "Unit 1 - Probability models and axioms/Notes",
