@@ -1,4 +1,6 @@
 [
   "mermaid-tools",
-  "mehrmaid"
+  "mehrmaid",
+  "dataview",
+  "obsidian-charts"
 ]

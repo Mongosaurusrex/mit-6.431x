@@ -1,4 +1,4 @@
-- Intuitive "definition": Information on some of the events does not change probabilities related to the remaining events
+ - Intuitive "definition": Information on some of the events does not change probabilities related to the remaining events
 
 Definition:
 $$
