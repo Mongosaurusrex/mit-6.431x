@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e99e51194017604",
+        "id": "3e65698f2f3f1628",
         "type": "tabs",
         "children": [
           {
-            "id": "642d9a9f60b84e70",
+            "id": "e19c4192d1497251",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sum of a random number of random variables"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unit 6 - Further topics on random variables/The PMF of a function of a discrete random variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The PMF of a function of a discrete random variable"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unit 6 - Further topics on random variables/The PMF of a function of a discrete random variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The PMF of a function of a discrete random variable"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,11 +138,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unit 6 - Further topics on random variables/The PMF of a function of a discrete random variable.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The PMF of a function of a discrete random variable"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,47 +163,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "642d9a9f60b84e70",
+  "active": "e19c4192d1497251",
   "lastOpenFiles": [
-    "Unit 3 - Counting/Combinations.md",
-    "Unit 4 - Discrete random variables/Variance.md",
-    "Unit 4 - Discrete random variables/Linearity of expectations and the mean of the binomial.md",
-    "Unit 4 - Discrete random variables/Joint PMFs and the expected value rule.md",
-    "Unit 3 - Counting/Die roll example.md",
-    "Unit 3 - Counting/Partitions.md",
-    "Unit 3 - Counting/Binomial coefficient -> Binomial probabilities.md",
-    "Unit 2 - Conditioning and independence/Bayes Rule.md",
-    "Unit 2 - Conditioning and independence/Total probability theorem.md",
-    "Unit 2 - Conditioning and independence/Independence vs. pairwise independence.md",
-    "Unit 2 - Conditioning and independence/Independence of a collection of events.md",
-    "Unit 2 - Conditioning and independence/Conditional probabilities obey the same axioms.md",
-    "Unit 2 - Conditioning and independence/Conditional probabilities.md",
-    "Unit 2 - Conditioning and independence/Conditional independence.md",
-    "Unit 2 - Conditioning and independence/A die roll example.md",
-    "Unit 2 - Conditioning and independence/A coin tossing example.md",
-    "Unit 1 - Probability models and axioms/Geometric series.md",
-    "Unit 1 - Probability models and axioms/Discrete example.md",
-    "Unit 1 - Probability models and axioms/Probability calculation, discrete but infinite sample space.md",
-    "Unit 4 - Discrete random variables/Expectation or mean of a random variable.md",
-    "Unit 4 - Discrete random variables/Binomial Random Variable.md",
-    "Unit 4 - Discrete random variables/Conditional PMF and expectation, given an event.md",
-    "Unit 4 - Discrete random variables/Conditional PMFs.md",
-    "Unit 4 - Discrete random variables/Bernoulli and indicator random variables.md",
-    "Unit 4 - Discrete random variables/Independence, variance and binomial variance.md",
-    "Unit 4 - Discrete random variables/Geometric PMF, memorylessness and expectation.md",
-    "Images/Pasted image 20240929151214.png",
-    "Images/Pasted image 20240929140302.png",
-    "Images/Pasted image 20240927062551.png",
-    "Images/Pasted image 20240924182852.png",
+    "Pasted image 20241027195924.png",
+    "Pasted image 20241027195451.png",
+    "Unit 6 - Further topics on random variables/Conditional variance as a random variable.md",
+    "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
+    "Images/Pasted image 20241027174352.png",
+    "Images/Pasted image 20241027175201.png",
+    "Images/Pasted image 20241027174809.png",
+    "Images/Pasted image 20241027173708.png",
+    "Images/Pasted image 20241027144220.png",
+    "Images/Pasted image 20241027142621.png",
+    "Unit 6 - Further topics on random variables/Conditional expectation as a random variable.md",
+    "Images/Pasted image 20241027143715.png",
+    "Images/Pasted image 20241027141544.png",
+    "Unit 6 - Further topics on random variables/Correlation coefficient.md",
+    "Unit 6 - Further topics on random variables/Covariance.md",
+    "Unit 6 - Further topics on random variables/Monotonic example.md",
+    "Unit 6 - Further topics on random variables/Non monotonic example.md",
+    "Unit 6 - Further topics on random variables/A linear function of a normal r.v..md",
+    "Images/Pasted image 20241022132917.png",
+    "Unit 6 - Further topics on random variables/Function of multiple r.v's.md",
+    "Unit 6 - Further topics on random variables/The sum of independent discrete random variables.md",
+    "Unit 5 - Continuous random variables/Independence.md",
+    "Unit 5 - Continuous random variables/Independent normals.md",
+    "Unit 5 - Continuous random variables/Joint PDFs.md",
+    "Unit 5 - Continuous random variables/Mixed distributions.md",
+    "Unit 5 - Continuous random variables/Probability density functions (PDFs).md",
+    "Unit 5 - Continuous random variables/Stick breaking example.md",
+    "Unit 5 - Continuous random variables/Total probability and expectation theorems (cont).md",
+    "Unit 6 - Further topics on random variables/A linear function of a continuous r.v.md",
+    "Unit 6 - Further topics on random variables/Sum of independent normal r.v's.md",
+    "Unit 6 - Further topics on random variables/The sum of independent continuous r.v.'s.md",
+    "Unit 6 - Further topics on random variables/A general function g(X) of a continuous r.v.md",
+    "Unit 6 - Further topics on random variables/The PMF of a function of a discrete random variable.md",
+    "Unit 5 - Continuous random variables/Expectation or mean of a continuous random variable.md",
+    "Unit 5 - Continuous random variables/Cumulative distribution function (CDFs).md",
+    "Unit 5 - Continuous random variables/Conditioning a continuous random variable on an event.md",
+    "Unit 6 - Further topics on random variables",
+    "Unit 5 - Continuous random variables",
     "Unit 4 - Discrete random variables",
     "Unit 3 - Counting",
-    "Images/Pasted image 20240914204243.png",
-    "Images/Pasted image 20240911194533.png",
-    "Images/Pasted image 20240910145234.png",
-    "Images/Pasted image 20240909082742.png",
-    "Images/Pasted image 20240910145006.png",
     "Untitled.canvas",
-    "Images/Pasted image 20240909082643.png",
     "Unit 2 - Conditioning and independence",
     "Images",
     "Unit 1 - Probability models and axioms/Exercises",
