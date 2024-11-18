@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
+                "file": "Unit 7 - Bayesian inference/LMS estimation with multiple observations or unknowns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum of a random number of random variables"
+              "title": "LMS estimation with multiple observations or unknowns"
+            }
+          },
+          {
+            "id": "4d8f44a79521e2af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241110175301.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241110175301"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,44 +176,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e19c4192d1497251",
+  "active": "9bfaabc22415355d",
   "lastOpenFiles": [
-    "Pasted image 20241027195924.png",
-    "Pasted image 20241027195451.png",
-    "Unit 6 - Further topics on random variables/Conditional variance as a random variable.md",
-    "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
-    "Images/Pasted image 20241027174352.png",
-    "Images/Pasted image 20241027175201.png",
-    "Images/Pasted image 20241027174809.png",
-    "Images/Pasted image 20241027173708.png",
-    "Images/Pasted image 20241027144220.png",
-    "Images/Pasted image 20241027142621.png",
-    "Unit 6 - Further topics on random variables/Conditional expectation as a random variable.md",
-    "Images/Pasted image 20241027143715.png",
-    "Images/Pasted image 20241027141544.png",
-    "Unit 6 - Further topics on random variables/Correlation coefficient.md",
-    "Unit 6 - Further topics on random variables/Covariance.md",
-    "Unit 6 - Further topics on random variables/Monotonic example.md",
-    "Unit 6 - Further topics on random variables/Non monotonic example.md",
-    "Unit 6 - Further topics on random variables/A linear function of a normal r.v..md",
-    "Images/Pasted image 20241022132917.png",
-    "Unit 6 - Further topics on random variables/Function of multiple r.v's.md",
-    "Unit 6 - Further topics on random variables/The sum of independent discrete random variables.md",
-    "Unit 5 - Continuous random variables/Independence.md",
-    "Unit 5 - Continuous random variables/Independent normals.md",
-    "Unit 5 - Continuous random variables/Joint PDFs.md",
-    "Unit 5 - Continuous random variables/Mixed distributions.md",
-    "Unit 5 - Continuous random variables/Probability density functions (PDFs).md",
-    "Unit 5 - Continuous random variables/Stick breaking example.md",
-    "Unit 5 - Continuous random variables/Total probability and expectation theorems (cont).md",
-    "Unit 6 - Further topics on random variables/A linear function of a continuous r.v.md",
+    "Unit 8 - Limit theorems and classical statistics",
+    "Images/Pasted image 20241110180521.png",
+    "Images/Pasted image 20241110175301.png",
+    "Images/Pasted image 20241108155758.png",
+    "Unit 7 - Bayesian inference/LMS estimation with multiple observations or unknowns.md",
+    "Images/Pasted image 20241110174902.png",
+    "Unit 7 - Bayesian inference/Example, LMS performance evaluation.md",
+    "Images/Pasted image 20241109202149.png",
+    "Unit 7 - Bayesian inference/LMS performance evaluation.md",
+    "Unit 7 - Bayesian inference/LMS example.md",
+    "Images/Pasted image 20241109200855.png",
+    "Images/Pasted image 20241108155927.png",
+    "Unit 7 - Bayesian inference/LMS estimation; single unknown and observation.md",
+    "Images/Pasted image 20241105161038.png",
+    "Images/Pasted image 20241107184409.png",
+    "Images/Pasted image 20241107183357.png",
+    "Unit 7 - Bayesian inference/LMS estimation without any observations.md",
+    "Unit 7 - Bayesian inference/Multiple parameters; trajectory estimation.md",
+    "Unit 7 - Bayesian inference/The mean squared error.md",
+    "Unit 7 - Bayesian inference/The case of multiple observations.md",
+    "Unit 7 - Bayesian inference/Normal unknown and additive noise.md",
+    "Unit 5 - Continuous random variables/Normal (Gaussian) random variables.md",
     "Unit 6 - Further topics on random variables/Sum of independent normal r.v's.md",
-    "Unit 6 - Further topics on random variables/The sum of independent continuous r.v.'s.md",
-    "Unit 6 - Further topics on random variables/A general function g(X) of a continuous r.v.md",
-    "Unit 6 - Further topics on random variables/The PMF of a function of a discrete random variable.md",
-    "Unit 5 - Continuous random variables/Expectation or mean of a continuous random variable.md",
-    "Unit 5 - Continuous random variables/Cumulative distribution function (CDFs).md",
-    "Unit 5 - Continuous random variables/Conditioning a continuous random variable on an event.md",
+    "Unit 7 - Bayesian inference/Recognising normal PDFs.md",
+    "Unit 7 - Bayesian inference/Inferring the unknown bias of a coin - point estimates.md",
+    "Unit 7 - Bayesian inference/Inferring hte unkown biad of a coin and the Beta distribution.md",
+    "Unit 7 - Bayesian inference/Continious parameter, continious observation.md",
+    "Unit 7 - Bayesian inference/Discrete parameter, continuous observation.md",
+    "Unit 7 - Bayesian inference/Discrete parameter, discrete observation.md",
+    "Unit 7 - Bayesian inference/Bayesian inference framework.md",
+    "Unit 7 - Bayesian inference/Types of inteference problems.md",
+    "Unit 6 - Further topics on random variables/A linear function of a normal r.v..md",
+    "Unit 7 - Bayesian inference",
+    "Unit 6 - Further topics on random variables/Conditional variance as a random variable.md",
+    "Unit 6 - Further topics on random variables/Function of multiple r.v's.md",
+    "Unit 6 - Further topics on random variables/Monotonic example.md",
+    "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
     "Unit 6 - Further topics on random variables",
     "Unit 5 - Continuous random variables",
     "Unit 4 - Discrete random variables",
@@ -210,7 +224,6 @@
     "Images",
     "Unit 1 - Probability models and axioms/Exercises",
     "Unit 1 - Probability models and axioms/Formulas",
-    "Unit 1 - Probability models and axioms/Notes",
-    "Unit 1 - Probability models and axioms"
+    "Unit 1 - Probability models and axioms/Notes"
   ]
 }
