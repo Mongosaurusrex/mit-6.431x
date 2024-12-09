@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3e65698f2f3f1628",
+        "id": "d4e58c5f494c609f",
         "type": "tabs",
         "children": [
           {
-            "id": "e19c4192d1497251",
+            "id": "08af5b688041c951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 7 - Bayesian inference/LMS estimation with multiple observations or unknowns.md",
+                "file": "Unit 9 - Bernoulli and Poisson processes/The Poisson process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LMS estimation with multiple observations or unknowns"
-            }
-          },
-          {
-            "id": "4d8f44a79521e2af",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20241110175301.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241110175301"
+              "title": "The Poisson process"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,45 +163,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9bfaabc22415355d",
+  "active": "08af5b688041c951",
   "lastOpenFiles": [
-    "Unit 8 - Limit theorems and classical statistics",
-    "Images/Pasted image 20241110180521.png",
-    "Images/Pasted image 20241110175301.png",
-    "Images/Pasted image 20241108155758.png",
+    "Images/Pasted image 20241207201054.png",
+    "Images/Pasted image 20241207193257.png",
+    "Unit 9 - Bernoulli and Poisson processes/The Poisson process.md",
+    "Images/Pasted image 20241207195808.png",
+    "Images/Pasted image 20241207194739.png",
+    "Images/Pasted image 20241207194059.png",
+    "Unit 9 - Bernoulli and Poisson processes/The Bernoulli process.md",
+    "Images/Pasted image 20241204184407.png",
+    "Images/Pasted image 20241207142750.png",
+    "Images/Pasted image 20241207142417.png",
+    "Unit 9 - Bernoulli and Poisson processes/Stochastic process.md",
+    "Images/Pasted image 20241207133152.png",
+    "Images/Pasted image 20241206191714.png",
+    "Unit 9 - Bernoulli and Poisson processes/Bernoulli, Poisson relation.md",
+    "Unit 9 - Bernoulli and Poisson processes",
+    "Unit 8 - Limit theorems and classical statistics/Other natural estimators.md",
+    "Unit 8 - Limit theorems and classical statistics/Maximum Likelihood (ML) estimation.md",
+    "Unit 8 - Limit theorems and classical statistics/Central Limit Theorem.md",
+    "Unit 8 - Limit theorems and classical statistics/Chebyshev inequality.md",
+    "Unit 8 - Limit theorems and classical statistics/Convergence in probability.md",
+    "Unit 8 - Limit theorems and classical statistics/Confidence intervals.md",
+    "Unit 8 - Limit theorems and classical statistics/Polling.md",
+    "Unit 8 - Limit theorems and classical statistics/Estimating a mean.md",
+    "Unit 8 - Limit theorems and classical statistics/Classical statistics.md",
+    "Unit 8 - Limit theorems and classical statistics/Convergence in probability examples.md",
+    "Unit 8 - Limit theorems and classical statistics/Normal approximation to the binomial.md",
+    "Unit 8 - Limit theorems and classical statistics/Markov Inequality.md",
+    "Unit 8 - Limit theorems and classical statistics/On the mean square error of an estimator.md",
+    "Unit 8 - Limit theorems and classical statistics/The weak law of large numbers (WLLN).md",
     "Unit 7 - Bayesian inference/LMS estimation with multiple observations or unknowns.md",
-    "Images/Pasted image 20241110174902.png",
+    "Unit 8 - Limit theorems and classical statistics",
     "Unit 7 - Bayesian inference/Example, LMS performance evaluation.md",
-    "Images/Pasted image 20241109202149.png",
     "Unit 7 - Bayesian inference/LMS performance evaluation.md",
     "Unit 7 - Bayesian inference/LMS example.md",
-    "Images/Pasted image 20241109200855.png",
-    "Images/Pasted image 20241108155927.png",
     "Unit 7 - Bayesian inference/LMS estimation; single unknown and observation.md",
-    "Images/Pasted image 20241105161038.png",
-    "Images/Pasted image 20241107184409.png",
-    "Images/Pasted image 20241107183357.png",
     "Unit 7 - Bayesian inference/LMS estimation without any observations.md",
     "Unit 7 - Bayesian inference/Multiple parameters; trajectory estimation.md",
-    "Unit 7 - Bayesian inference/The mean squared error.md",
-    "Unit 7 - Bayesian inference/The case of multiple observations.md",
-    "Unit 7 - Bayesian inference/Normal unknown and additive noise.md",
-    "Unit 5 - Continuous random variables/Normal (Gaussian) random variables.md",
-    "Unit 6 - Further topics on random variables/Sum of independent normal r.v's.md",
-    "Unit 7 - Bayesian inference/Recognising normal PDFs.md",
-    "Unit 7 - Bayesian inference/Inferring the unknown bias of a coin - point estimates.md",
-    "Unit 7 - Bayesian inference/Inferring hte unkown biad of a coin and the Beta distribution.md",
-    "Unit 7 - Bayesian inference/Continious parameter, continious observation.md",
-    "Unit 7 - Bayesian inference/Discrete parameter, continuous observation.md",
-    "Unit 7 - Bayesian inference/Discrete parameter, discrete observation.md",
-    "Unit 7 - Bayesian inference/Bayesian inference framework.md",
-    "Unit 7 - Bayesian inference/Types of inteference problems.md",
-    "Unit 6 - Further topics on random variables/A linear function of a normal r.v..md",
     "Unit 7 - Bayesian inference",
-    "Unit 6 - Further topics on random variables/Conditional variance as a random variable.md",
-    "Unit 6 - Further topics on random variables/Function of multiple r.v's.md",
-    "Unit 6 - Further topics on random variables/Monotonic example.md",
-    "Unit 6 - Further topics on random variables/Sum of a random number of random variables.md",
     "Unit 6 - Further topics on random variables",
     "Unit 5 - Continuous random variables",
     "Unit 4 - Discrete random variables",
@@ -222,8 +210,6 @@
     "Untitled.canvas",
     "Unit 2 - Conditioning and independence",
     "Images",
-    "Unit 1 - Probability models and axioms/Exercises",
-    "Unit 1 - Probability models and axioms/Formulas",
-    "Unit 1 - Probability models and axioms/Notes"
+    "Unit 1 - Probability models and axioms/Exercises"
   ]
 }
